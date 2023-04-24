@@ -611,6 +611,9 @@ font-weight: 600;
     width: 40%;
     margin-right: 50px;
 }
+.small-img{
+    height: 150px;
+}
 .small-img-group{
     display: flex;
     justify-content: space-between;
@@ -618,6 +621,7 @@ font-weight: 600;
 .small-img-col{
     flex-basis: 24%;
     cursor: pointer;
+    
 }
 
 /*Blog page*/
